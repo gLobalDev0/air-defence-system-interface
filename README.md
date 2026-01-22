@@ -21,4 +21,6 @@ Proje şu anda **prototip** aşamasındadır ve arayüz geliştirmeleri devam et
 * **Architecture:** Modular Design Pattern
 
 ---
+
+![Dashboard](./air-defence0.png)
 *Developed by [Gullu/Javadli]*
