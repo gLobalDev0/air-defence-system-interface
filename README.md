@@ -21,4 +21,4 @@ Proje şu anda **prototip** aşamasındadır ve arayüz geliştirmeleri devam et
 * **Architecture:** Modular Design Pattern
 
 ---
-*Developed by [Senin Adın/Kullanıcı Adın]*
+*Developed by [Gullu/Javadli]*
