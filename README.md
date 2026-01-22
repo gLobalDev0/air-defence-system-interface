@@ -23,4 +23,6 @@ Proje şu anda **prototip** aşamasındadır ve arayüz geliştirmeleri devam et
 ---
 
 ![Dashboard](./air-defence0.png)
+![Dashboard](./air-defence1.png)
+![Dashboard](./air-defence2.png)
 *Developed by [Gullu/Javadli]*
